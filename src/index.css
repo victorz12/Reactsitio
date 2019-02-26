@@ -1,0 +1,6 @@
+body {
+  margin: 4;
+  padding: 4;
+  font-family: sans-serif;
+  background: #12c2e9;  /* fallback for old browsers */
+}
